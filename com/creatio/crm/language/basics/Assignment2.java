@@ -1,4 +1,4 @@
-package Assigment;
+package Assigment.com.creatio.crm.language.basics;
 
 public class Assignment2 {
 	public static void main(String[] args) {
